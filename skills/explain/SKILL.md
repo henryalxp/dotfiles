@@ -1,6 +1,6 @@
 ---
 name: explain
-description: Explain a technology concept, pattern, or code snippet using a layered approach (TL;DR, summary table, detailed explanation with examples). Use when the user asks to explain CSS, JS, TypeScript, React, HTML, Tailwind, or any other technology concept. Also use when the user provides code and wants to understand what it does.
+description: Explain a technology concept, pattern, or code snippet using a layered approach (TL;DR, summary table, detailed explanation with examples). Use when the user asks to explain CSS, JS, TypeScript, React, HTML, Tailwind, Linux, Ruby, Docker, Terraform or any other technology concept. Also use when the user provides code and wants to understand what it does.
 tools: Read, Glob, Grep, WebSearch, WebFetch
 ---
 
